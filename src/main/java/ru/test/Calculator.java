@@ -1,3 +1,5 @@
+package ru.test;
+
 public class Calculator {
 
     public static double calculator(double operand1, double operand2, char sign) {

@@ -1,3 +1,5 @@
+package ru.test;
+
 import java.io.*;
 import java.util.ArrayList;
 
@@ -17,5 +19,6 @@ public class Reader {
             fromCSV.add(splittedLine);
         }
         return fromCSV;
+
 }
 }

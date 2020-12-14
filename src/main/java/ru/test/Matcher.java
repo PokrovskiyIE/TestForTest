@@ -1,3 +1,5 @@
+package ru.test;
+
 import java.util.regex.Pattern;
 
 public class Matcher {
